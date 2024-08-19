@@ -1,7 +1,7 @@
 
 <dl>
   <dt>Hello</dt>
-  <dd>Read hs.fi </dd>
+  <dd>Read https://hs.fi </dd>
 </dl>
 
 
