@@ -1,1 +1,5 @@
-Information Security -course's homework repository. https://terokarvinen.com/information-security/
+Information Security -course
+
+Homework repository.
+
+More details on https://terokarvinen.com/information-security/
